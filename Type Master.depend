@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1533188299 source:c:\code blocks console\type master\picturedemotransperancy.cpp
+	"iGraphics.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1493810122 c:\code blocks console\type master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
